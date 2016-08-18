@@ -1,0 +1,17 @@
+{
+    "name": "happymonkey-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Brenda Gallo"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/happymonkey-bower.git"
+    },
+    "description": "Happy Monkey font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
